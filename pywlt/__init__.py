@@ -17,7 +17,8 @@ import multilevelPUC
 import filterDaubechiesPUC
 import WaveletFiltersPUC 
 import utilsPUC
+import denoisingPUC
 
-__all__=['functionPUC','multilevelPUC','filterDaubechiesPUC','WaveletFiltersPUC', 'utilsPUC']
+__all__=['denoisingPUC','functionPUC','multilevelPUC','filterDaubechiesPUC','WaveletFiltersPUC', 'utilsPUC']
 
 
